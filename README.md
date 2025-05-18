@@ -45,7 +45,7 @@
 ## Demo
 
 Access Live App:  
-*[https://moodchef.streamlit.app](https://moodchef.streamlit.app)* (Deploy after GitHub push)
+*[https://python-class09-9ttfti5pbinp46ua9lakvc.streamlit.app/]https://python-class09-9ttfti5pbinp46ua9lakvc.streamlit.app/* (Deploy after GitHub push)
 
 ---
 
@@ -121,8 +121,6 @@ Built with love for the Q3 Python Challenge
 ---
 
 ---
-
-### Aapko Kya Karna Hai:
-- yourusername aur [Your Name] apne account aur naam se replace karna
-- https://moodchef.streamlit.app jab deploy ho jaye, link add karna
+Streamlit Deploy
+- https://python-class09-9ttfti5pbinp46ua9lakvc.streamlit.app/ deploy kar ke link add  kar diya
 
