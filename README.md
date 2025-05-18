@@ -66,7 +66,7 @@ moodchef/
 
 How to Run Locally
 
-git clone 
+git clone https://github.com/Mariya1255/python-class09
 cd moodchef
 pip install -r requirements.txt
 streamlit run moodchef_app.py
@@ -114,7 +114,7 @@ For educational and demo purposes.
 
 Connect
 
-GitHub: https://github.com/yourusername/moodchef
+GitHub: 
 Built with love for the Q3 Python Challenge
 
 
