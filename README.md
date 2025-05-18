@@ -114,7 +114,7 @@ For educational and demo purposes.
 
 Connect
 
-GitHub: 
+GitHub: https://github.com/Mariya1255/python-class09/tree/main/moodchef
 Built with love for the Q3 Python Challenge
 
 
